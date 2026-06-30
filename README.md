@@ -98,6 +98,11 @@ Open `Heart_Disease_Prediction.ipynb` and run all cells.
 
 ![ROC Curve](/roc_curve.png)
 
+
+❤️ Heart Disease Prediction
+
+**Live Demo:** https://heart-disease-prediction-saktron.streamlit.app/
+
 ## Future Improvements
 
 - Hyperparameter tuning

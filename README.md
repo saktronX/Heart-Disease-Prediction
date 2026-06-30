@@ -86,6 +86,18 @@ jupyter notebook
 
 Open `Heart_Disease_Prediction.ipynb` and run all cells.
 
+## Results
+
+| Metric | Value |
+|---------|-------|
+| Model | Logistic Regression |
+| Accuracy | 79.89% |
+| ROC-AUC Score | 0.88 |
+
+### ROC Curve
+
+![ROC Curve](images/roc_curve.png)
+
 ## Future Improvements
 
 - Hyperparameter tuning

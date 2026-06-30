@@ -96,7 +96,7 @@ Open `Heart_Disease_Prediction.ipynb` and run all cells.
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](/roc_curve.png)
 
 ## Future Improvements
 
